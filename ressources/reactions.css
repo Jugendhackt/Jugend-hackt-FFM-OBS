@@ -1,0 +1,26 @@
+* {
+    background-color: rgba(0, 0, 0, 0) !important;
+    background-image: unset !important;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+div:not(.audience):not(.container):not(.particle-container),
+footer {
+    display: none
+}
+
+.particle-container {
+    border: unset !important;
+}
+
+.particle-container {
+    min-height: 100vh !important;
+    min-width: 100vw !important;
+}
+
+.box {
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+}

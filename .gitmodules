@@ -1,0 +1,3 @@
+[submodule "obs-lower-thirds"]
+	path = obs-lower-thirds
+	url = ../obs-lower-thirds/

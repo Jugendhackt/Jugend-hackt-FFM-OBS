@@ -1,0 +1,58 @@
+body {
+    background-color: rgba(0, 0, 0, 0) !important;
+    font-family: "Open Sans" !important;
+}
+
+.content--Z1CkMQ::after {
+    border: unset !important;
+}
+
+.media--qsqlj,
+.connecting--1NgF1c {
+    clip-path: polygon(21.875% 19.25%, 21.875% 73.25%, 26.9375% 73.25%, 26.9375% 80.0%, 32.0% 80.0%, 32.0% 86.75%, 67.4375% 86.75%, 67.4375% 80.0%, 72.5% 80.0%, 72.5% 73.25%, 77.5625% 73.25%, 77.5625% 19.25%, 72.5% 19.25%, 72.5% 12.5%, 62.375% 12.5%, 62.375% 19.25%, 57.3125% 19.25%, 57.3125% 26.0%, 42.125% 26.0%, 42.125% 19.25%, 37.0625% 19.25%, 37.0625% 12.5%, 26.9375% 12.5%, 26.9375% 19.25%, 26.9375% 19.25%);
+}
+
+.dropdownTrigger--Z1Fp5dg,
+.userName--ZsKYfV {
+    background-color: inherit !important;
+}
+
+.top--Z25OvN9 {
+    opacity: 0;
+    height: 3px;
+}
+
+.top--Z25OvN9:hover {
+    height: unset;
+    opacity: 1;
+}
+
+.info--1NTSXo,
+.talker--2eNUIW i,
+.dropdownTrigger--Z1Fp5dg::after,
+.actionsbar--Z1ant6U,
+.wrapper--Z17x8k2,
+#tippy-43,
+.Toastify,
+.button--yKJ5d {
+    display: none !important;
+}
+
+
+
+.navbar--Z2lHYbG {
+    height: 10px !important;
+    margin-bottom: -10px;
+    z-index: 10
+}
+
+.svgContainer--Z1z3wO0,
+.svgContainer--Z1z3wO0>div:first-child {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+
+.container--ZmRztk.containerH--Z1rOJf7>.content--Z2gO9GE:not(:only-of-type) {
+    margin-right: 3em !important;
+}

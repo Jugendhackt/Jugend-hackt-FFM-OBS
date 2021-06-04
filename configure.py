@@ -1,12 +1,19 @@
 from string import Template
 import os
-import pathlib
 import json
+
+
+# Fix for python2
+try:
+    input = raw_input
+except NameError:
+    pass
+
 
 with open("Jugend_hackt.json.template") as f:
     template = Template(f.read())
 
-directory = str(pathlib.Path().absolute())
+directory = os.path.abspath(os.getcwd())
 
 print("What BigBlueButton URL should be used?")
 print("Info: This setup is only tested using BBB 2.3.")
